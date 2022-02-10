@@ -1,0 +1,7 @@
+{
+    "Database": {
+    "MONGODB_URI": "mongodb://127.0.0.1:27017/TEST_DB",
+    "DatabaseName": "TEST_DB"
+},
+"PORTS":8080
+}
